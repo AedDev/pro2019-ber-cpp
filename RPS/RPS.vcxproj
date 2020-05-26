@@ -148,11 +148,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Game.cpp" />
+    <ClCompile Include="Inventory.cpp" />
     <ClCompile Include="RPS.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Choice.h" />
     <ClInclude Include="Game.h" />
+    <ClInclude Include="Inventory.h" />
     <ClInclude Include="LoopChoice.h" />
     <ClInclude Include="Util.h" />
   </ItemGroup>
